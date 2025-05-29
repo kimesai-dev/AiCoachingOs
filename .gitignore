@@ -1,0 +1,19 @@
+# Ignore environment files
+.env
+*.env
+
+# Ignore node modules and build outputs
+node_modules/
+backend/dist/
+frontend/.next/
+frontend/out/
+
+# Logs
+*.log
+
+# Mac/Linux
+.DS_Store
+
+# npm caches
+npm-debug.log*
+
